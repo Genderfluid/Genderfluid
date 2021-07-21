@@ -1,16 +1,21 @@
-### Hi there 👋
+![Discord](https://img.shields.io/discord/775076340398292994)
+![Twitch Status](https://img.shields.io/twitch/status/ashenred_)
+# Ash | AshenRed
+Hewwo there. I'm Ash. I develop shit (node.js apps, websites, apis, etc.)
 
-<!--
-**Genderfluid/Genderfluid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stuff To Know:
+- **Pronouns:** They/Them
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links:
+- **Website:** https://outcast.red/
+- **Discord Server:** https://outcast.red/discord
+- **Twitter:** https://twitter.com/AshenRed_/
+- **Company:** https://outcastcorp.xyz/
+- **Discord Bot:** https://github.com/OutcastCorp/outcast
+
+## Stats
+
+![Genderfluid's github stats](https://github-readme-stats.vercel.app/api?username=Genderfluid&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ff0000)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=outcastcorp&repo=outcast)](https://github.com/outcastcorp/outcast)
+[![trophy](https://github-profile-trophy.vercel.app/?username=genderfluid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

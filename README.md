@@ -1,4 +1,4 @@
- <img alt='Pronouns' src='https://img.shields.io/endpoint?url=https://pronoundb.org/shields/62222ceef0cf73b1a319f9d3&style=for-the-badge&labelColor=000000&color=ff0000' />
+![Pronouns](https://img.shields.io/endpoint?url=https://pronoundb.org/shields/62222ceef0cf73b1a319f9d3&style=for-the-badge&labelColor=000000&color=ff0000)
 
 
 ![Discord](https://img.shields.io/discord/775076340398292994?style=for-the-badge&logo=discord)

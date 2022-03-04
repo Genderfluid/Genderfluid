@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align='center'>
   
   ![Pronouns](https://img.shields.io/endpoint?url=https://pronoundb.org/shields/62222ceef0cf73b1a319f9d3&style=for-the-badge&labelColor=000000&color=ff0000)
   

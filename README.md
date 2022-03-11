@@ -20,6 +20,11 @@ Hewwo there. I'm Ash. I develop shit (node.js apps, websites, apis, etc.)
 ## Stuff To Know:
 - **Pronouns:** They/Them
 
+<p align="center">
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=cloudflare,html,css,nodejs,redis&theme=dark" />
+	</a>
+</p>
 
 ## Links:
 - **Website:** https://outcast.red/

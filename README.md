@@ -37,3 +37,9 @@ Hewwo there. I'm Ash. I develop shit (node.js apps, websites, apis, etc.)
 ![Genderfluid's github stats](https://github-readme-stats.vercel.app/api?username=Genderfluid&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ff0000)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=outcastllc&repo=outcast&bg_color=000000&title_color=ff0000&text_color=ff0000)](https://github.com/OutcastLLC/outcast)
 [![trophy](https://github-profile-trophy.vercel.app/?username=genderfluid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center">
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=cloudflare,html,css,nodejs,redis&theme=dark" />
+	</a>
+</p>

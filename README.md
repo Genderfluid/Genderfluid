@@ -10,7 +10,7 @@
   ![Steam](https://img.shields.io/static/v1?label=Steam&message=Genderfluid&style=for-the-badge&logo=steam&color=ff0000)
   ![Telegram](https://img.shields.io/static/v1?label=Telegram&message=AshenR3d&style=for-the-badge&logo=telegram&color=ff0000)
   ![Twitch Status](https://img.shields.io/twitch/status/ashenred_?style=for-the-badge&logo=twitch)
-  ![Twitter](https://img.shields.io/static/v1?label=Twitter&message=AshenRed_&style=for-the-badge&logo=twitter&color=ff0000)
+  ![Twitter](https://img.shields.io/static/v1?label=Twitter&message=4shenred&style=for-the-badge&logo=twitter&color=ff0000)
 
 </div>
   

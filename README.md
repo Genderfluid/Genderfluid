@@ -44,5 +44,5 @@ Hewwo there. I'm Ash. I develop shit (node.js apps, websites, apis, etc.)
 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=genderfluid&theme=darkhub"/></a>
 </p>
 <p align="center">
-	<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cloudflare,html,css,nodejs,redis&theme=dark" /></a>
+	<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cloudflare,html,css,nodejs,redis,raspberrypi&theme=dark" /></a>
 </p>

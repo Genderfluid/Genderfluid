@@ -28,7 +28,7 @@ Hewwo there. I'm Ash. I develop shit (node.js apps, websites, apis, etc.)
 ## Links:
 - **Website:** https://outcast.red/
 - **Discord Server:** https://outcast.red/discord
-- **Twitter:** https://twitter.com/AshenRed_/
+- **Twitter:** https://twitter.com/4shenred/
 - **Twitch:** https://twitch.tv/AshenR3d/
 
 ## Stats
